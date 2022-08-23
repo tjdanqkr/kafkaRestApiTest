@@ -1,6 +1,6 @@
 package com.example.KafkaExampleTest.controller;
 
-import com.example.KafkaExampleTest.config.KafkaProducer;
+import com.example.KafkaExampleTest.kafka.KafkaProducer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

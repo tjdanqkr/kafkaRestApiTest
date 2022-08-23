@@ -1,4 +1,4 @@
-package com.example.KafkaExampleTest.config;
+package com.example.KafkaExampleTest.kafka;
 
 
 import lombok.extern.slf4j.Slf4j;
